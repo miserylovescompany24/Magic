@@ -3,3 +3,8 @@ background-image: url(images/tile.png);
 }
 	a {color:#8c0404}
 	a:hover{color:#de96f2}
+div {
+    width: 300px;
+    margin: auto;
+    border: 1px solid red;
+}
