@@ -3,3 +3,6 @@ background-image: url(images/tile.png);
 }
 	a {color:#8c0404}
 	a:hover{color:#de96f2}
+h1 {color: white;
+	text-align: center;
+}	
