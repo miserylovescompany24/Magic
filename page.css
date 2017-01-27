@@ -1,3 +1,6 @@
+<html>
+<head>
+<style>
 body {background-color:#96adf2;
 background-image: url(images/tile.png);
 }
@@ -6,3 +9,11 @@ background-image: url(images/tile.png);
 h1 {color: white;
 	text-align: center;
 }
+div {
+	border: 1px solid black;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 150px;
+	margin-right: 80px;
+}
+</style>
