@@ -10,3 +10,10 @@ h1 {color: white;
 h2 {color: white;
 	text-align: center;
 }
+div.char.floating-box{
+    float: left;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    border: 3px solid #73AD21; 
+}
