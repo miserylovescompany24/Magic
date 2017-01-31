@@ -20,3 +20,6 @@ div.char.floating-box{
 li.menu {
 	display: inline;
 }
+li {
+	float: left;
+}
