@@ -43,3 +43,6 @@ img.https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRW3c2otvjBwaP2TkqtUdWg
 	width: 75px;
 	height: 75px;
 }
+img {
+    border-radius: 8px;
+}
