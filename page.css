@@ -22,7 +22,7 @@ div.char.floating-box{
 li.menu {
 	display: inline;
 }
-li {
+img.https://upload.wikimedia.org/wikipedia/en/4/44/HarryPotter5poster.jpg{
 	float: left;
 }
 img.https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQD4qReXxKdsE9pUvNzIIHNWL7GxD8ldcZ884Z8nLvzgHkT8KFK{
@@ -43,6 +43,4 @@ img.https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRW3c2otvjBwaP2TkqtUdWg
 	width: 75px;
 	height: 75px;
 }
-img.https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRW3c2otvjBwaP2TkqtUdWgQewokridlV6LLi5lNaqIyyGZNxGq{
-    border-radius: 8px;
-}
+
